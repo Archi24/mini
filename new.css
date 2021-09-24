@@ -4,11 +4,11 @@
     padding:0;
 }
 body{
-    background-image: url("software.jpg");
+    background-image: url("automatic-speech-recognition-lead.jpg");
     background-repeat: none;
 }
 h1{
-    margin-top:5%;
+    margin-top:20%;
 }
 textarea{
     margin-top:20%;
@@ -16,11 +16,14 @@ textarea{
     height:170px;
 }
 #btn{
-    text-align: center;
+    
     width:50%;
     height:40px;
     background-color: red;
 }
 #btn:hover{
     cursor:pointer;
+}
+p{
+     text-align: center;
 }
